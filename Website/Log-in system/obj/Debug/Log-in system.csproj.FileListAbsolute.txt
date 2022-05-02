@@ -1,0 +1,12 @@
+C:\Data\LTU STUFF\SE2\Log-in system\Log-in system\bin\Debug\Log-in system.exe.config
+C:\Data\LTU STUFF\SE2\Log-in system\Log-in system\bin\Debug\Log-in system.exe
+C:\Data\LTU STUFF\SE2\Log-in system\Log-in system\bin\Debug\Log-in system.pdb
+C:\Data\LTU STUFF\SE2\Log-in system\Log-in system\obj\Debug\Log-in system.csprojAssemblyReference.cache
+C:\Data\LTU STUFF\SE2\Log-in system\Log-in system\obj\Debug\Log_in_system.Form1.resources
+C:\Data\LTU STUFF\SE2\Log-in system\Log-in system\obj\Debug\Log_in_system.New_user_form.resources
+C:\Data\LTU STUFF\SE2\Log-in system\Log-in system\obj\Debug\Log_in_system.Properties.Resources.resources
+C:\Data\LTU STUFF\SE2\Log-in system\Log-in system\obj\Debug\Log-in system.csproj.GenerateResource.cache
+C:\Data\LTU STUFF\SE2\Log-in system\Log-in system\obj\Debug\Log-in system.csproj.CoreCompileInputs.cache
+C:\Data\LTU STUFF\SE2\Log-in system\Log-in system\obj\Debug\Log-in system.exe
+C:\Data\LTU STUFF\SE2\Log-in system\Log-in system\obj\Debug\Log-in system.pdb
+C:\Data\LTU STUFF\SE2\Log-In system\Log-in system\obj\Debug\Log_in_system.successful_login.resources
