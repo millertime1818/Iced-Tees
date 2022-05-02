@@ -1,0 +1,10 @@
+C:\Data\LTU STUFF\SE2\Social Page\Social Page\bin\Debug\Social Page.exe.config
+C:\Data\LTU STUFF\SE2\Social Page\Social Page\bin\Debug\Social Page.exe
+C:\Data\LTU STUFF\SE2\Social Page\Social Page\bin\Debug\Social Page.pdb
+C:\Data\LTU STUFF\SE2\Social Page\Social Page\obj\Debug\Social Page.csprojAssemblyReference.cache
+C:\Data\LTU STUFF\SE2\Social Page\Social Page\obj\Debug\Social_Page.Form1.resources
+C:\Data\LTU STUFF\SE2\Social Page\Social Page\obj\Debug\Social_Page.Properties.Resources.resources
+C:\Data\LTU STUFF\SE2\Social Page\Social Page\obj\Debug\Social Page.csproj.GenerateResource.cache
+C:\Data\LTU STUFF\SE2\Social Page\Social Page\obj\Debug\Social Page.csproj.CoreCompileInputs.cache
+C:\Data\LTU STUFF\SE2\Social Page\Social Page\obj\Debug\Social Page.exe
+C:\Data\LTU STUFF\SE2\Social Page\Social Page\obj\Debug\Social Page.pdb
